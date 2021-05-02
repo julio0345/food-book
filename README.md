@@ -4,4 +4,5 @@
 - Aguarde novidades
 - Frango Assado
 - Arroz de Carreteiro
+- Feijão tropeiro
 - Feijoada
