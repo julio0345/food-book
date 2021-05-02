@@ -2,4 +2,5 @@
 
 - Receita de Lasanha de muçarela
 - Aguarde novidades
-- 
+- Frango Assado
+- Arroz de Carreteiro
